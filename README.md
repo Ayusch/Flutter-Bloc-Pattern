@@ -1,6 +1,6 @@
-# bloc_tutorial
+# Flutter Bloc Architecture
 
-A new Flutter project.
+This project demonstrates how to use bloc architecture in your Flutter application. 
 
 ## Getting Started
 
